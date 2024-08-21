@@ -1,10 +1,8 @@
-# Projeto Uninove 1 ° Semestre - VP
+# Projeto Esperança - Uninove VP
 
-## Projeto Esperança
+## Detalhes
 
 Um Sistema CRUD (Create, Read, Update e Delete) de usuários que permite a criação, leitura, atualização e exclusão de informações de usuários.
-
-Aqui estão algumas etapas para criar essa base:
 
 ## Preparação do Ambiente de Desenvolvimento
 
