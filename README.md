@@ -8,12 +8,12 @@ Aqui estão algumas etapas para criar essa base:
 
 ## Preparação do Ambiente de Desenvolvimento
 
-1. Configure ferramentas como **Insomnia**, **Postman** ou **Thunder Client** para testar as requisições.
+**1. Configure ferramentas** como _Insomnia_, _Postman_ ou _Thunder Client_ para testar as requisições.
 
-2. Crie uma nova coleção e aponte para o servidor backend local.
+**2. Crie uma nova coleção** e aponte para o servidor backend local.
 
-3. Configuração das Rotas
-   (_Defina rotas para operações fundamentais_)
+**3. Configuração das Rotas**
+(_Defina rotas para operações fundamentais_)
 
 - **GET /users** - busca todos os usuários.
 - **GET /users/:id** - busca um usuário pelo ID.
