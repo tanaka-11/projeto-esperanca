@@ -4,6 +4,9 @@
 
 Um Sistema CRUD (Create, Read, Update e Delete) de usuários que permite a criação, leitura, atualização e exclusão de informações de usuários.
 
+Exemplo
+![Primeiro Briefing](./assets/images/imagem-briefing.jpg)
+
 ## Preparação do Ambiente de Desenvolvimento
 
 **1. Configure ferramentas** como _Insomnia_, _Postman_ ou _Thunder Client_ para testar as requisições.
