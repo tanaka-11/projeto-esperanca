@@ -46,7 +46,6 @@ public class Livro {
         livro.setPaginas(336); // Definindo o número de páginas como 336
         
         // Imprimindo os valores usando os métodos getter
-
         // Titulo 
         System.out.println("Título: " + livro.getTitulo());
 
