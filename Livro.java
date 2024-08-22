@@ -1,9 +1,7 @@
-// Livro.java (nome do arquivo)
-
 import java.util.ArrayList; // Importando a classe ArrayList
 
 public class Livro {
-    // Propriedades
+    private String titulo; // Adicionando a variável 'titulo'
     private String autor;
     private int paginas = 0;
 
@@ -24,7 +22,7 @@ public class Livro {
         this.paginas = paginas;
     }
 
-    // Métodos GET (Pegando o dado atribuido)
+    // Métodos GET (Pegando o dado atribuído)
     
     // Titulo
     public String getTitulo() {
@@ -44,13 +42,13 @@ public class Livro {
     // Método main - (Primeiro método chamado quando você executa um programa Java. Ele é obrigatório em qualquer classe que deseje ser executada como um programa independente).
     public static void main(String[] args) {
 
-        // Criando uma instância(Objeto) da classe Livro
+        // Criando uma instância (Objeto) da classe Livro
         Livro livro = new Livro();
         
         // Chamando os métodos setter
-        livro.setTitulo("Percy Jackson");
-        livro.setAutor("Rick Riordan");
-        livro.setPaginas(336);
+        livro.setTitulo("Percy Jackson"); // Atribuindo o título "Percy Jackson"
+        livro.setAutor("Rick Riordan"); // Atribuindo o autor "Rick Riordan"
+        livro.setPaginas(336); // Definindo o número de páginas como 336
         
         // Imprimindo os valores usando os métodos getter
 
