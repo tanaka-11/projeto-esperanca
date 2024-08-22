@@ -4,7 +4,7 @@
 
 Um Sistema CRUD (Create, Read, Update e Delete) de usuários que permite a criação, leitura, atualização e exclusão de informações de usuários.
 
-Exemplo
+Exemplo - Wireframe e Briefing
 ![Primeiro Briefing](./assets/images/imagem-briefing.jpg)
 
 ## Preparação do Ambiente de Desenvolvimento
