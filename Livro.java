@@ -1,12 +1,9 @@
-import java.util.ArrayList; // Importando a classe ArrayList
-
 public class Livro {
     private String titulo; // Adicionando a variável 'titulo'
     private String autor;
     private int paginas = 0;
 
     // Métodos SET (Atribuição de dados)
-
     // Titulo
     public void setTitulo(String titulo) {
         this.titulo = titulo;
@@ -23,7 +20,6 @@ public class Livro {
     }
 
     // Métodos GET (Pegando o dado atribuído)
-    
     // Titulo
     public String getTitulo() {
         return this.titulo;
@@ -41,7 +37,6 @@ public class Livro {
 
     // Método main - (Primeiro método chamado quando você executa um programa Java. Ele é obrigatório em qualquer classe que deseje ser executada como um programa independente).
     public static void main(String[] args) {
-
         // Criando uma instância (Objeto) da classe Livro
         Livro livro = new Livro();
         
